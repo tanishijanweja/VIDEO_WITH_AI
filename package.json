@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@imagekit/next": "^2.1.2",
     "@types/bcryptjs": "^2.4.6",
     "bcrypt": "^6.0.0",
     "js": "^0.1.0",
