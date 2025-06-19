@@ -14,6 +14,7 @@
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
     "js": "^0.1.0",
+    "lucide-react": "^0.517.0",
     "mongoose": "^8.15.2",
     "next": "15.3.3",
     "next-auth": "^4.24.11",
